@@ -1,0 +1,8 @@
+# Keep implementation prompts local
+implementation-prompt.md
+*-prompt.md
+prompts/
+
+
+# Keep funding proposals local
+ckb-poc-funding-proposal.md
